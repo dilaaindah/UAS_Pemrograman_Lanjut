@@ -4,7 +4,7 @@ Ini adalah project UAS Pemrograman Lanjut Semester 2
 Website restoran ini adalah platform online yang menyediakan informasi dan layanan bagi pelanggan yang tertarik dengan restoran. Website ini dirancang untuk mempromosikan restoran, menu makanan, pemesanan meja, dan memberikan pengalaman yang baik kepada pengunjung.
 
 **Fitur**
-Berikut adalah beberapa fitur utama yang dimiliki oleh website restoran ini:
+
 
 Home: Menampilkan gambaran besar mengenai menu pada website ini. Berisi gambar cabang restoran di berbagai negara, testimoni, dan jenis pemesanan.
 
@@ -17,7 +17,7 @@ About: Halaman ini deskripsi tentang restoran
 
 
 **Panduan Penggunaan**
-Berikut adalah langkah-langkah untuk menjalankan website restoran ini di lingkungan pengembangan lokal:
+
 
 1. Unduh file arsip dari repositori
 
